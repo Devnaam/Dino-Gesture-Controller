@@ -35,3 +35,6 @@ python eye_blink_dino.py
 ```
 
 Press `q` to quit the webcam window.
+
+![Dino Gesture](dino%20gesture.png)
+
